@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACC,eACD,CACA,KACC,WAAY,CACZ,gBAAiB,CACjB,UAAW,CACX,SAAU,CACV,QACD","file":"style.431df640.css","sourceRoot":"../src","sourcesContent":["html {\n\toverflow: hidden;\n}\nbody {\n\theight: 100%;\n\tmin-height: 100vh;\n\twidth: 100%;\n\tpadding: 0;\n\tmargin: 0;\n}"]}
